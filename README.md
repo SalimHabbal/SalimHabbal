@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Salim, a Software Engineering student at Carleton University (graduating Dec 2025) who enjoys building practical, end-to-end software.<br>Most of my work sits at the intersection of backend, systems, and embedded development. For my capstone I worked on a QNX-based robotics platform on Raspberry Pi, where I built a custom OS image.<br>Above all, I'm a team player who brings an agile engineering mindset to my projects.<br>I actively leverage AI as an enhancement tool in my workflow, using it to explore design options, generate first-draft code, refactor, and debug — while still owning the architecture, decisions, and final implementation myself.<br><br>
+I’m Salim, a Software Engineering graduate from Carleton University who enjoys building practical, end-to-end software.<br>Most of my work sits at the intersection of backend, systems, and embedded development. For my capstone I worked on a QNX-based robotics platform on Raspberry Pi, where I built a custom OS image.<br>Above all, I'm a team player who brings an agile engineering mindset to my projects.<br>I actively leverage AI as an enhancement tool in my workflow, using it to explore design options, generate first-draft code, refactor, and debug — while still owning the architecture, decisions, and final implementation myself.<br><br>
 
 
 ## 🌐 Socials:
